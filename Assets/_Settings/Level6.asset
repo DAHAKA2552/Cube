@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1398615029a4e74c9d305725fa6e7cf, type: 3}
+  m_Name: Level6
+  m_EditorClassIdentifier: 
+  sublevels:
+  - {fileID: 3188596301753927978, guid: 1269090eae22d8b48b3772bf3ab71d56, type: 3}
+  - {fileID: 5103373435294966790, guid: a73ba9ddf315ed840bbc5ce855162af7, type: 3}
+  - {fileID: 932873909823921302, guid: 6420b69e0c7b9fc4caf2b89e852259bc, type: 3}
+  totalAmountOfCoins: 4
